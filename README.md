@@ -1,7 +1,7 @@
-#SatellaZone  
+SatellaZone  
 This project is a 3DS Nintendo Zone Revival  
 -----------------
-##Credits  
+Credits  
 * MegaPika (Me) *for working a lot lol*
 * Cooolgamer *for __A LOT OF THINGS__*
 * Ghost64 *for debug/credit pages + other things*
