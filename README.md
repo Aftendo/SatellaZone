@@ -1,4 +1,4 @@
-This project is a 3DS Nintendo Zone Revival  
+This project is a 3DS Nintendo Zone Revival.  
 Trailer : https://youtu.be/7QpJw4a_EqE  
 Discord : https://discord.gg/csSWztn6z4  
 -------------------------------
