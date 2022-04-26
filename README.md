@@ -1,4 +1,5 @@
 SatellaZone  
+-----------------
 This project is a 3DS Nintendo Zone Revival  
 -----------------
 Credits  
