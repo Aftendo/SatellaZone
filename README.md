@@ -1,3 +1,4 @@
+https://discord.gg/csSWztn6z4
 This project is a 3DS Nintendo Zone Revival  
 -------------------------------
 Credits  
