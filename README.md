@@ -1,6 +1,4 @@
-SatellaZone  
------------------
-This project is a 3DS Nintendo Zone Revival  
+SatellaZone This project is a 3DS Nintendo Zone Revival  
 -----------------
 Credits  
 * MegaPika (Me) *for working a lot lol*
