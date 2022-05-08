@@ -5,6 +5,8 @@
 
 ## How to install it ?
 
+* Go to https://github.com/MegaPika/SatellaZone/releases
+* Download the SatellaZone archive (SatellaZoneLite do not contains videos so it take really less space)
 * Extract the .zip and simply drag & drop the romfs folder in SD:/luma/titles/TITLE-ID/
 * You also need to "enable game patching" in the luma configuration menu (Press select + boot when console off).
 
@@ -16,9 +18,6 @@ Here is the titleIDs:
     USA : 0004001000021B00
     JPN : 0004001000020B00
 
-## What is SatellaZone Lite archive ?
-
-* SatellaZone Lite is a version of SatellaZone that does not contains videos.
 ---
 Credits : 
 * MegaPika (Me) *for working a lot lol*
