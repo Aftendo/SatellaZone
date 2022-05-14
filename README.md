@@ -28,3 +28,4 @@ Credits :
 * Braden Yes *for retalking about revive Nintendo Zone*
 * Envy *for research about Nintendo Zone*
 * JeremKO *for beta testing*
+* Spencer Everly *for backing up Nintendo Zone pages when it was alive*
