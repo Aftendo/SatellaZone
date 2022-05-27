@@ -1,6 +1,6 @@
 # SatellaZone  
 ## This project is a 3DS Nintendo Zone Revival.  
-* Trailer : https://youtu.be/7QpJw4a_EqE  
+* Trailer : https://youtu.be/3sz7-zEtvOg 
 * Discord : https://discord.gg/csSWztn6z4  
 
 ## How to install it ?
