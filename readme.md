@@ -8,16 +8,16 @@
 * Go to https://github.com/MegaPika/SatellaZone/releases
 * Download the SatellaZone archive,
 * Extract the .zip and simply drag & drop the romfs folder in SD:/luma/titles/TITLE-ID/
-* You also need to "enable game patching" in the luma configuration menu (Press select + boot when console off).
+* You also need to "enable game patching" in the luma configuration menu (Press select when booting the console).
 
 ## How do watch videos? (on normal SatellaZone, not Local one)
 * A tutorial can be found on the main page of SatellaZone by clicking the (?) button, here is the tutorial:
-* Make a hotspot named "NintendoSpotPass1" (wihout "") using a phone or something else wihout password,
-* Launch Nintendo zone, if it take a long time to try to load something (so official servers but it's down) then the hotspot worked,
+* Make a hotspot named "NintendoSpotPass1" (without "") using a phone or something else without a password,
+* Launch Nintendo zone, if it takes a long time to try to load something (cause the official servers are down) then the hotspot worked,
 * Ignore the error and you can now watch videos!
 
 ## What is "LocalSatellaZone" archive?
-This archive means the videos are stored on SDcard, so you don't need to use a hotspot but it take many space on sdcard.
+This archive means the videos are stored on the SDcard, so you don't need to use a hotspot but it takes many space on the sdcard.
 
 ## How to get the TITLE-ID ?
 
