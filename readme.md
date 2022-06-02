@@ -34,7 +34,7 @@ Credits :
 * Ghost64 *for debug/credit pages + other things*
 * BostonSix *for some images*
 * Sudocraft *for the SatellaZone logo*
-* Braden Yes *for talking about reviving Nintendo Zone*
+* Braden Yes *for retalking about reviving Nintendo Zone*
 * Envy *for research about Nintendo Zone*
 * JeremKO *for beta testing*
 * Spencer Everly *for backing up Nintendo Zone pages when it was alive*
