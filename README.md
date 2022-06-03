@@ -1,4 +1,5 @@
-# SatellaZone  
+## SatellaZone
+![logo](https://satellazone.neocities.org/rsslogo.png) 
 ## This project is a 3DS Nintendo Zone Revival.  
 * Trailer : https://youtu.be/3sz7-zEtvOg 
 * Discord : https://discord.gg/csSWztn6z4  
