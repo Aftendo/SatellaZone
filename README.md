@@ -3,7 +3,7 @@
 * Trailer : https://youtu.be/3sz7-zEtvOg 
 * Discord : https://discord.gg/csSWztn6z4  
 
-## How to install it ?
+## How to install SatellaZone?
 
 * Go to the releases
 * Download SatellaZone (If you don't have an android phone or something to make an unsecured hotspot, download LocalSatellaZone.)
@@ -17,7 +17,7 @@
 * Step 3: Enjoy!
 
 ## What is LocalSatellaZone?
-It is SatellaZone, but you don't have to make an unsecured hotspot to watch the videos.
+It is the same, but you don't have to make an unsecured hotspot to watch the videos, meaning the videos are stored into the SD Card. 
 
 ## What are the Title ID's for Nintendo Zone?
 
