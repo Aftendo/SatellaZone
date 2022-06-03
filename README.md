@@ -6,7 +6,7 @@
 ## How to install SatellaZone?
 
 * Go to the releases
-* Download SatellaZone (If you don't have an android phone or something to make an unsecured hotspot, download LocalSatellaZone.)
+* Download SatellaZone (if you see LocalSatellaZone, see "What is LocalSatellaZone and why is it there" by scrolling down.)
 * Extract and simply drag & drop the romfs folder in SD:/luma/titles/TITLE-ID/
 * You also need to "enable game patching" in the luma configuration menu (Hold select before you boot up your console)
 
@@ -16,8 +16,8 @@
 * Step 2: Launch Nintendo Zone. if you can't, download usapatch.zip and copy the contents to SD:/luma/titles/0004003000008F02/. If there isn't the title id, make the folder in the titles folder. If you get an error when you connect to it, ignore it.
 * Step 3: Enjoy!
 
-## What is LocalSatellaZone?
-It is the same, but you don't have to make an unsecured hotspot to watch the videos, meaning the videos are stored into the SD Card. 
+## What is LocalSatellaZone and why is it there?
+LocalSatellaZone is like SatellaZone, but instead the videos are stored into the SD Card, and it is because nowadays, people with different phones, laptops, etc can only have a secure hotspot for others to connect. For example: iPhone and Windows can only have a secure hotspot, so Android is the only one to make an unsecured hotspot currently.
 
 ## What are the Title ID's for Nintendo Zone?
 
