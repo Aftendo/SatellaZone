@@ -1,5 +1,4 @@
 ## SatellaZone
-![logo](https://satellazone.neocities.org/rsslogo.png) 
 ## This project is a 3DS Nintendo Zone Revival.  
 * Trailer : https://youtu.be/3sz7-zEtvOg 
 * Discord : https://discord.gg/csSWztn6z4  
@@ -14,7 +13,7 @@
 ## How to watch videos?
 * A tutorial can be found on the main page of SatellaZone by clicking the (?) button, here is the tutorial:
 * Step 1: Go to here, Download code.ips in the source code, and move it to SD:/luma/titles/0004013000002F02/. If there is no folder for it, make it. https://github.com/InternalLoss/3DS-SSL-Patch
-* Step 2: Make a hotspot named "NintendoSpotPass1" (wihout "") with no security using a android phone.
+* Step 2: Make a hotspot named "NintendoSpotPass1" (wihout "") with no security using an android phone for example.
 * Step 3: Launch Nintendo Zone. if you can't, download usapatch.zip and copy the contents to SD:/luma/titles/0004003000008F02/. If there isn't the title id, make the folder in the titles folder. If you get an error when you connect to it, ignore it.
 * Step 4: Enjoy!
 
@@ -23,23 +22,22 @@ LocalSatellaZone is like SatellaZone, but instead the videos are stored into the
 
 ## What are the Title ID's for Nintendo Zone?
 
-
     EUR : 0004001000022B00
     USA : 0004001000021B00
     JPN : 0004001000020B00
 
-## What is usapatch?
+## What is UsaPatch?
 
-usapatch is a patch to let you launch Nintendo Zone from the homemenu and is for **USA consoles only!** Just download the folder and copy the contents to the root of your SD Card.
+UsaPatch is a patch to let you launch Nintendo Zone from the homemenu and is for **USA consoles only!** Just download the folder and copy the contents to the root of your SD Card.
 
-
+---
 Credits : 
 * MegaPika (Me) *for working on the project*
 * Cooolgamer *for __A LOT OF THINGS__*
 * Ghost64 *for debug/credit pages + other things*
 * BostonSix *for some images*
 * Sudocraft *for the SatellaZone logo*
-* Braden Yes *for reviving the conversation about SatellaZone and other things*
+* Braden Yes *for reviving the conversation about NintendoZone*
 * Envy *for research about Nintendo Zone*
 * JeremKO *for beta testing*
-* Spencer Everly *for the archive pages*
+* Spencer Everly *for backing up Nintendo Zone pages when it was alive*
