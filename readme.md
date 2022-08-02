@@ -34,7 +34,8 @@ UsaPatch is a patch to let you launch Nintendo Zone from the homemenu and is for
 Credits : 
 * MegaPika (Me) *for working on the project*
 * Cooolgamer *for __A LOT OF THINGS__*
-* Ghost64 *for debug/credit pages + other things*
+* The Fridge *for some cool images*
+* Ghost64 *for the old debug and credit pages + other things*
 * BostonSix *for some images*
 * Sudocraft *for the SatellaZone logo*
 * Braden Yes *for reviving the conversation about NintendoZone*
