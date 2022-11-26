@@ -35,6 +35,7 @@ Credits :
 * MegaPika (Me) *for working on the project*
 * Cooolgamer *for __A LOT OF THINGS__*
 * The Fridge *for some cool images*
+* MettleSphee *for the moflex graphs*
 * Ghost64 *for the old debug and credit pages + other things*
 * BostonSix *for some images*
 * Sudocraft *for the SatellaZone logo*
