@@ -24,8 +24,7 @@ LocalSatellaZone is like SatellaZone, but instead the videos are stored into the
 
 ## What is UsaPatch?
 
-UsaPatch is a patch to let you launch Nintendo Zone from the homemenu and is for **USA consoles only!** 
-Just download the folder and copy the contents to the root of your SD Card.
+UsaPatch is a patch to let you launch Nintendo Zone from the homemenu and is for **USA consoles only!** Just download the folder and copy the contents to the root of your SD Card.
 
 ---
 Credits : 
