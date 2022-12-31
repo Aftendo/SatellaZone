@@ -11,11 +11,13 @@
 * You also need to "enable game patching" in the luma configuration menu (Hold select before you boot up your console)
 
 ## How to watch videos?
-* A tutorial can be found on the main page of SatellaZone by clicking the (?) button, here is the tutorial:
-* Step 1: Go to here, Download code.ips in the source code, and move it to SD:/luma/titles/0004013000002F02/. If there is no folder for it, make it. https://github.com/InternalLoss/3DS-SSL-Patch
-* Step 2: Make a hotspot named "NintendoSpotPass1" (wihout "") with no security using an android phone for example.
-* Step 3: Launch Nintendo Zone. if you can't, download usapatch.zip and copy the contents to SD:/luma/titles/0004003000008F02/. If there isn't the title id, make the folder in the titles folder. If you get an error when you connect to it, ignore it.
-* Step 4: Enjoy!
+* Download the "LocalSatellaZone" version because there are no videos on the normal one.
+
+~~A tutorial can be found on the main page of SatellaZone by clicking the (?) button, here is the tutorial:~~
+~~Step 1: Go to here, Download code.ips in the source code, and move it to SD:/luma/titles/0004013000002F02/. If there is no folder for it, make it. https://github.com/InternalLoss/3DS-SSL-Patch~~
+~~Step 2: Make a hotspot named "NintendoSpotPass1" (wihout "") with no security using an android phone for example.~~
+~~Step 3: Launch Nintendo Zone. if you can't, download usapatch.zip and copy the contents to SD:/luma/titles/0004003000008F02/. If there isn't the title id, make the folder in the titles folder. If you get an error when you connect to it, ignore it.~~
+~~Step 4: Enjoy!~~
 
 ## What is LocalSatellaZone and why is it there?
 LocalSatellaZone is like SatellaZone, but instead the videos are stored into the SD Card, and it is because nowadays, people with different phones, laptops, etc can only have a secure hotspot for others to connect. For example: iPhone and Windows can only have a secure hotspot, so Android is the only one to make an unsecured hotspot currently.
