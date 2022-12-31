@@ -44,3 +44,4 @@ Credits :
 * Envy *for research about Nintendo Zone*
 * JeremKO *for beta testing the 1.0*
 * Spencer Everly *for backing up Nintendo Zone pages when it was alive*
+* JbrockPony and Kolma *for the youtube videos back when it was alive*
