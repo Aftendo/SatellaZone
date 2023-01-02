@@ -7,7 +7,7 @@
 
 1. Go to [releases](https://github.com/MegaPika/SatellaZone/releases/latest)
 2. Download `SatellaZone.zip` or `LocalSatellaZone.zip`
-3. Extract the zipped romfs folder into `SD:/luma/titles/TITLE-ID/` (Create the folder)
+3. Extract and simply drag & drop the romfs folder into `SD:/luma/titles/TITLE-ID/` (Create the folder)
 * Title IDs for each region:
 
     EUR : `0004001000022B00`
