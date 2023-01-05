@@ -26,6 +26,12 @@ LocalSatellaZone is like SatellaZone, but instead the videos are stored into the
 
 UsaPatch is a patch to let you launch Nintendo Zone from the homemenu and is for **USA consoles only!** Just download the folder and copy the contents to the root of your SD Card.
 
+## How to launch Nzone (EUR)? / How to make Nzone (EUR) to appear on the homemenu ?
+
+You can launch Nintendo Zone by going in FBI -> titles -> and in the red (nand) titles search for Nintendo Zone -> Press the `A` button and click on `Launch Title`.
+
+To make Nintendo Zone (EUR) appear on the homemenu, you need to create an hotspot called `NintendoSpotPass1` without a password and remove all your internet connetions. After that just wait a little bit on the homemenu and it should appear !
+
 ---
 Credits : 
 * MegaPika (Me) *for working on the project*
