@@ -37,7 +37,7 @@ You can launch Nintendo Zone by going in FBI -> titles -> and in the red (nand) 
 New method for unlocking (EUR) ! (Thanks MettleSphee)
 To make Nintendo Zone (EUR) appear on the homemenu,
 1. Create an hotspot called `NintendoSpotPass1` without a password.
-2. Add the hotspot to your internet connetions and remember the number of the connection.
+2. Add the hotspot to your internet connections and remember the number of the connection.
 3. Go back to the homemenu, now open the `Rosalina menu` by pressing `L+Down+Select` at the same time.
 4. Go in `System configuration`, `Control Wireless connection`, and select the number of the hotspot.
 5. After that just wait a bit and it should appear on the menu!
