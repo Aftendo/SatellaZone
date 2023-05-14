@@ -45,16 +45,16 @@ To make Nintendo Zone (EUR) appear on the homemenu,
 
 ---
 Credits : 
-* MegaPika (Me) *for working on the project*
-* Cooolgamer *for fixing my mistakes + technical stuff*
-* The Fridge *for some cool images*
-* MettleSphee *for the moflex graphs*
-* Ghost64 *for the old debug and credit pages + other things*
-* BostonSix *for some images*
-* Sudocraft *for the SatellaZone logo and name*
-* Swipley *for helping me with the "how to download" page*
-* Braden Yes *for reviving the conversation about NintendoZone*
-* Envy *for research about Nintendo Zone*
-* JeremKO *for beta testing the 1.0*
-* Spencer Everly *for backing up Nintendo Zone pages when it was alive*
-* JbrockPony and Kolma *for the youtube videos back when it was alive*
+* MegaPika (Me), for working on the project
+* Cooolgamer, for fixing my mistakes + technical stuff
+* The Fridge, for some cool images
+* MettleSphee, for the moflex graphs
+* Ghost64, for the old debug and credit pages + other things
+* BostonSix, for some images
+* Sudocraft, for the SatellaZone logo and name
+* Swipley, for helping me with the "how to download" page
+* Braden Yes, for reviving the conversation about NintendoZone
+* Envy, for research about Nintendo Zone
+* JeremKO, for beta testing the 1.0
+* Spencer Everly, for backing up Nintendo Zone pages when it was alive
+* JbrockPony and Kolma, for the youtube videos back when it was alive
