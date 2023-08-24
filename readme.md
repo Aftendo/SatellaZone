@@ -22,6 +22,7 @@ You can find more informations and tutorials at https://github.com/MegaPika/Sate
 
 * For USA consoles, you may also need the `UsaPatch.zip` file; see below for instructions.
 4. Reboot and hold select until the Luma3ds configuration page opens. Enable game patching.
+![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/cd5bf9e0-483b-4730-bbf4-5e4549d114bc)
 
 ## How to watch videos? / What is LocalSatellaZone and why is it there?
 LocalSatellaZone is like SatellaZone, but instead the videos are stored into the SD Card.
