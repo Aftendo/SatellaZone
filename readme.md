@@ -25,7 +25,7 @@ You can find more informations and tutorials at https://github.com/MegaPika/Sate
 ![image](https://github.com/TehFridge/ShutTheCamUp/assets/85436576/cd5bf9e0-483b-4730-bbf4-5e4549d114bc)
 
 ## How to watch videos? / What is LocalSatellaZone and why is it there?
-LocalSatellaZone is like SatellaZone, but instead the videos are stored into the SD Card.
+LocalSatellaZone offers an enhanced experience compared to SatellaZone by providing a diverse collection of accessible videos.
 
 ## What is UsaPatch?
 
