@@ -11,8 +11,9 @@ You can find more informations and tutorials at https://github.com/MegaPika/Sate
 
 1. Go to [releases](https://github.com/MegaPika/SatellaZone/releases/latest)
 2. Download `SatellaZone.zip` or `LocalSatellaZone.zip`
-3. Extract and simply drag & drop the `romfs` folder into `SD:/luma/titles/TITLE-ID/` (Create the folder)
-* Title IDs for each region:
+3. Extract and simply drag & drop the `romfs` folder into `SD:/luma/titles/(your-title-id-for-nintendo-zone-here/` (Create the folder
+3.5. You will need to replace "(your-title-id-for-nintendo-zone-here)" with one of the Title IDs in this list. If your 3DS is a USA one, use the USA Title ID, If it's a JPN, choose the JPN ID, If it's a EUR 3DS, choose the EUR ID. If you region changed your 3DS to a region in this list, choose the region that you changed to.
+   * Title IDs for each region:
 
     EUR : `0004001000022B00`
 
